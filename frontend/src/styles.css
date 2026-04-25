@@ -1,0 +1,25 @@
+body{
+  background:#0f172a;
+  color:white;
+  font-family:Arial;
+}
+
+.box{
+  max-width:500px;
+  margin:30px auto;
+  padding:20px;
+  background:#1e293b;
+  border-radius:12px;
+  text-align:center;
+}
+
+input,select{
+  width:90%;
+  padding:10px;
+  margin:8px;
+}
+
+button{
+  padding:10px 15px;
+  margin:10px;
+}
